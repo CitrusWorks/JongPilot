@@ -17,5 +17,5 @@ description: JongPilot 利用規約・プライバシーポリシー
 
 ## 開発元
 
-- 開発者: **citrus works**
+- 開発元: **citrus works**
 - メール: [support.citrus.works@gmail.com](mailto:support.citrus.works@gmail.com)

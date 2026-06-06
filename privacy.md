@@ -68,9 +68,9 @@ Google Play・App Store および OS (Android・iOS) は、アプリの稼働状
 
 本ポリシーに関するご質問・ご要望は下記までご連絡ください。
 
-- 開発者: citrus works
+- 開発元: citrus works
 - メール: [support.citrus.works@gmail.com](mailto:support.citrus.works@gmail.com)
 
 ---
 
-[← トップに戻る](/JongPilot/) | [利用規約 →](/JongPilot/terms/)
+他の文書: [利用規約](/JongPilot/terms/)

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: プライバシーポリシー — JongPilot
+title: プライバシーポリシー
 permalink: /privacy/
+description: JongPilot プライバシーポリシー
 ---
-
-# プライバシーポリシー
 
 最終更新日: 2026-06-06
 

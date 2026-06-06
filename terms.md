@@ -1,10 +1,9 @@
 ---
 layout: default
-title: 利用規約 — JongPilot
+title: 利用規約
 permalink: /terms/
+description: JongPilot 利用規約
 ---
-
-# 利用規約
 
 最終更新日: 2026-06-06
 

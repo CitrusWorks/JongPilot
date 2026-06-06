@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JongPilot — Legal
+title: JongPilot
+tagline: 麻雀 AI コーチ — Legal Documents
 permalink: /
+description: JongPilot 利用規約・プライバシーポリシー
 ---
-
-# JongPilot
 
 麻雀の AI コーチ。カメラで実卓を解析する打牌推薦と、何切るシミュレータで実力を磨くトレーニングモードを提供します。
 
@@ -19,7 +19,3 @@ permalink: /
 
 - 開発者: **citrus works**
 - メール: [support.citrus.works@gmail.com](mailto:support.citrus.works@gmail.com)
-
----
-
-© 2026 citrus works. All rights reserved.

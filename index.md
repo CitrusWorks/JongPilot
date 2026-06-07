@@ -8,12 +8,17 @@ description: JongPilot 利用規約・プライバシーポリシー
 
 麻雀の AI コーチ。カメラで実卓を解析する打牌推薦と、何切るシミュレータで実力を磨くトレーニングモードを提供します。
 
-本ページは **JongPilot の利用規約とプライバシーポリシー** を公開する場所です。
+本ページは **JongPilot の利用規約とプライバシーポリシー** を公開する場所です。各規約はプラットフォームごとに分かれています。
 
-## ドキュメント
+## Android 版
 
-- [📄 利用規約](/JongPilot/terms/)
-- [🔒 プライバシーポリシー](/JongPilot/privacy/)
+- [📄 利用規約](/JongPilot/android/terms/)
+- [🔒 プライバシーポリシー](/JongPilot/android/privacy/)
+
+## iOS 版
+
+- [📄 利用規約](/JongPilot/ios/terms/)
+- [🔒 プライバシーポリシー](/JongPilot/ios/privacy/)
 
 ## 開発元
 

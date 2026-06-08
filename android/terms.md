@@ -9,7 +9,7 @@ description: JongPilot 利用規約 (Android 版)
 
 「JongPilot」(以下「本アプリ」) のご利用にあたり、下記の条件にご同意いただいたものとみなします。本規約は本アプリのすべてのバージョン・配布形態に適用されます。
 
-本規約は **Android 版** に適用されます。iOS 版は別途 [iOS 版利用規約](/JongPilot/ios/terms/) をご参照ください。
+本規約は **Android 版** に適用されます。
 
 ## 1. AI 推薦の精度
 
